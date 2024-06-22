@@ -1,2 +1,33 @@
-# cms-backend
-This repository contains the Backend Code for the Online Classroom Management System developed using MongoDb,Express.js,Node.js as the Tech Stack . This repository is utilised for the Frontend of the Project.
+# OCMS Backend
+
+This repository contains the source code of the OCMS(Online Classroom Management System) Backend.
+
+To start the backend on your local system follow the steps
+
+Clone the Repository into your system
+```python
+git clone https://github.com/Software-Engineering-Project-Team-Bob/OCMS_Backend.git
+```
+
+The current project uses nm as the package manager.
+```python
+ npm install
+```
+Run 
+```python
+npm start
+```
+
+Change the .env.example to .env in your file
+
+Add the Mongo DB daatbase uri 
+Specify the Port  number in the env file 
+
+The Backend Server runs on localhost 5000(default) in each system currently.
+
+Contact :-
+Sumit Kumar
+
+Email-sumitkanpur2005@gmail.com
+
+Phone Number:-7376910003
