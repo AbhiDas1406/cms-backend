@@ -10,7 +10,7 @@ const pagesPath = path.join(__dirname, 'pages');
 
 
 const corsOptions = {
-  origin: ['https://cms-backend-phi.vercel.app','https://firebasestorage.googleapis.com'],
+  origin: ['https://cms-frontend-three.vercel.app','https://firebasestorage.googleapis.com'],
   "methods": "GET,HEAD,PUT,PATCH,POST,DELETE",
   "preflightContinue": false,
   "optionsSuccessStatus": 204
